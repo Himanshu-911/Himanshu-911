@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data structures and Web development**
 
-- 📫 How to reach me **himanshusingla177@gmail or hsingla_be20@thapr.edu**
+- 📫 How to reach me **himanshusingla177@gmail.com or hsingla_be20@thapar.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
