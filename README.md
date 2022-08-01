@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI/ML and deep learning**
 
-- 🌱 I’m currently learning **Data structures and Web development.**
+- 🌱 I’m currently learning **Data structures and Web development**
 
 - 📫 How to reach me **himanshusingla177@gmail.com or hsingla_be20@thapar.edu**
 
